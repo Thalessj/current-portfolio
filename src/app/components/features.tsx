@@ -1,5 +1,3 @@
-import {Tooltip} from "@nextui-org/react";
-
 export default function Example() {
   return (
     <>
