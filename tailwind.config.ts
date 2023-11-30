@@ -9,13 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bglight: "#0b79f7",
-        bgDark: "#0bb2f7",
+        bgLight: "#0b79f7",
+        bgDark: "#252525",
         textLight: "#2c2e35",
         textDark: "#0a0a0b",
+        blue: "#1d4ed8",
+        light: "#CACACA",
       },
       backgroundImage: {
-        foreground: "url('/images/foreground.jpg')",
+        texture1: 'url("https://br.freepik.com/fotos-gratis/glitter_4167598.htm#query=textura%204k&position=15&from_view=keyword&track=ais&uuid=2cdfc528-f149-4066-8a49-de1a9a3660c1")'
       },
     },
   },
